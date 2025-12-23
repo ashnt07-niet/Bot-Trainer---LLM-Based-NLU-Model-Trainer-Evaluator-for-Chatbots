@@ -1,1 +1,27 @@
 
+---
+
+## 6️⃣ Multi-Person Conversation (How to Explain in Viva)
+
+> Multiple users can sequentially interact with the chatbot in a shared environment, simulating real-time cricket discussions. The NLU model classifies intent for each message and responds contextually.
+
+---
+
+## 7️⃣ Why This Is Strong for Infosys / IT
+✅ Clear NLU implementation  
+✅ Domain-specific (Cricket) chatbot  
+✅ Easy to extend with live API  
+✅ Good ML + Python fundamentals  
+✅ Excellent GitHub presentation  
+
+---
+
+### 🔥 Want next?
+1️⃣ Real **multi-user chat (Flask + Web)**  
+2️⃣ Live **cricket score API integration**  
+3️⃣ Entity recognition (player names, teams)  
+4️⃣ Rasa-based cricket chatbot  
+5️⃣ Add screenshots + demo GIF for GitHub  
+
+Just tell me the number 👍
+
