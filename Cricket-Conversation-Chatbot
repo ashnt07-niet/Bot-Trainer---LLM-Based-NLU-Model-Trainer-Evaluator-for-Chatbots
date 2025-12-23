@@ -1,1 +1,42 @@
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey",
+    "good evening"
+  ],
+  "match_query": [
+    "who is playing today",
+    "which teams are playing",
+    "today match",
+    "who is batting"
+  ],
+  "score_query": [
+    "what is the score",
+    "current score",
+    "how many runs",
+    "score update"
+  ],
+  "player_query": [
+    "who is the best player",
+    "who is on strike",
+    "top batsman"
+  ],
+  "emotion_happy": [
+    "what a shot",
+    "amazing",
+    "great batting",
+    "wow six"
+  ],
+  "emotion_sad": [
+    "bad shot",
+    "poor performance",
+    "disappointing"
+  ],
+  "goodbye": [
+    "bye",
+    "see you",
+    "good night"
+  ]
+}
 
